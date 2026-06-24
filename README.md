@@ -1,6 +1,3 @@
-# Image_Studio
-Here’s a polished **GitHub README post draft** you can use for your **Image Processing Studio** project:
-
 ---
 
 # 🖼️ Image Processing Studio  
