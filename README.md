@@ -34,5 +34,3 @@ streamlit run app.py
 Upload any image, apply transformations, and download the result — all in seconds!  
 
 ---
-
-👉 Do you want me to also create a **short tagline + badges section** (like “Made with ❤️ using Python | Streamlit | OpenCV”) to make your GitHub repo look more professional and recruiter-friendly?
